@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "DePrEcaTeD - get used to systemctl!"
+systemctl $2 $1
